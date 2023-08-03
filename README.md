@@ -1,17 +1,15 @@
 ### Hi there 👋
 
-**here is Vishwa. curruntly, persuing BE computer Engineering.**<br>
-**:heart:Programming | :black_heart: K-pop | :blue_heart: coffee**
+**here is Vishwa. curruntly, persuing Master of Science in Computer Science(High Integrity System at Frankfurt Unversity of Applied Sciences.**<br>
 
 ### Quick look up🛫
-- 🌱 **I’m currently learning Data Science | Analytics | Feature enginnering | NLP | Machine learning | Deep learning**
+- 🌱 **I have knowledge of Python Programing, Data Analysis and Mobile Application Development and currently focus on  Data Science | Feature enginnering | NLP | Machine learning | Deep learning**
 - 💬 **Ask me about anything. I will try to help you as much as I can.**
-- ⚡ **Quote: The aim of life is not more to control the mind , but to develop it harmoniously.**
 - 🧿 **Check out my HackerRank at** <a href="https://www.hackerrank.com/vishwakakadiya?hr_r=1"> here </a>
 
 ---
  ### Find me here 📫
- <a href="mailto:vishwakakadiya03962@gmail.com"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/gmail.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
+ <a href="mailto:vishwaben.kakadiya@stud.fra-uas.de"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/gmail.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
    <a href="https://github.com/vishwakakadia/"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/github.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
   <a href="https://www.linkedin.com/in/vishwa-kakadiya-a0377516a/"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/linkedin.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
   <a href="https://twitter.com/KakadiyaVishwa"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/twitter.svg" width="30px" alt="Twitter">     </a> &nbsp; &nbsp;
