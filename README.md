@@ -1,6 +1,6 @@
 ### Hi, Here is Vishwa 👋
 
-**Data Scientist Warranty and also persuing Master of Science in Data Science(High Integrity System) at Frankfurt Unversity of Applied Sciences.**<br>
+**Data Scientist in Automotive sector(currently:)) and also master's student(High Integrity System ) at Frankfurt Unversity of Applied Sciences.**<br>
 
  ### Connect with me at
  <a href="mailto:vishwaben.kakadiya@stud.fra-uas.de"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/gmail.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
